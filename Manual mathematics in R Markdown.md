@@ -1,0 +1,1 @@
+[Mathematics in R Markdown (rpruim.github.io)](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html)
